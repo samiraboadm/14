@@ -1,4 +1,4 @@
-https://samiraboadm.github.io/1352
+https://samiraboadm.github.io/14
 # PS4 Exploit Host
 Firmwares: `5.05` `6.72` `7.02` `8.00` `9.00` `10.00 `11.00` `12.02` `12.52` `12.52` `13.00` `13.02` `13.50` `13.52` `14.00`
 
